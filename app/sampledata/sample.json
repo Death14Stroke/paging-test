@@ -1,0 +1,1300 @@
+{
+  "status": "success",
+  "message": "Success",
+  "type": "object",
+  "response": {
+    "product_count": 20,
+    "total_found": 60,
+    "offset": 0,
+    "products": [{
+      "rating": 4.0,
+      "is_kit_combo": null,
+      "object_type": "product",
+      "is_saleable": true,
+      "explore_more": null,
+      "pack_size": null,
+      "category_ids": "4362,4408,6619,6621,6631,9816",
+      "id": "282534",
+      "sku": "9781578261406",
+      "rating_count": 0,
+      "from_gludo": 1,
+      "fbn": 0,
+      "gludo_stock": true,
+      "offers": null,
+      "mrp_freeze": null,
+      "primary_categories": {
+        "l2": {
+          "id": null,
+          "name": null
+        },
+        "l3": {
+          "id": null,
+          "name": null
+        },
+        "l1": {
+          "id": null,
+          "name": null
+        }
+      },
+      "type": "simple",
+      "final_price": 899,
+      "expdt": null,
+      "price": 899,
+      "button_text": "ADD TO BAG",
+      "brand_name": "",
+      "discount": 0,
+      "show_wishlist_button": 0,
+      "slug": "the-body-sculpting-bible-swimsuit-workout-women-s-edition-by-james-villepigue-paperback/p/282534",
+      "is_lux": 0,
+      "name": "The Body Sculpting Bible Swimsuit Workout: Women's Edition by James Villepigue - Paperback",
+      "pro_flag": 0,
+      "dynamic_tags": [],
+      "brand_ids": "6631",
+      "is_backorder": 0,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:h-200,w-200,cm-pad_resize/9/7/9781578261406.jpg",
+      "catalog_tag": ["nykaa"],
+      "quantity": 1
+    }, {
+      "rating": 5.0,
+      "is_kit_combo": null,
+      "object_type": "product",
+      "is_saleable": true,
+      "explore_more": null,
+      "pack_size": null,
+      "category_ids": "4362,4408,6619,6620,6631,9816",
+      "id": "278706",
+      "sku": "9780141193182",
+      "rating_count": 1,
+      "from_gludo": 1,
+      "fbn": 0,
+      "gludo_stock": true,
+      "offers": null,
+      "mrp_freeze": null,
+      "primary_categories": {
+        "l2": {
+          "id": "6619",
+          "name": "Books"
+        },
+        "l3": {
+          "id": "6620",
+          "name": "Fiction"
+        },
+        "l1": {
+          "id": "4362",
+          "name": "Jewellery & Accessories"
+        }
+      },
+      "type": "simple",
+      "final_price": 499,
+      "expdt": null,
+      "price": 499,
+      "button_text": "ADD TO BAG",
+      "brand_name": "",
+      "discount": 0,
+      "show_wishlist_button": 0,
+      "slug": "scent-of-a-woman-by-giovanni-arpino-paperback/p/278706",
+      "is_lux": 0,
+      "name": "Scent Of A Woman by Giovanni Arpino - Paperback",
+      "pro_flag": 0,
+      "dynamic_tags": [],
+      "brand_ids": "6631",
+      "is_backorder": 0,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:h-200,w-200,cm-pad_resize/9/7/9780141193182.jpg",
+      "catalog_tag": ["nykaa"],
+      "quantity": 1
+    }, {
+      "rating": 4.0,
+      "is_kit_combo": null,
+      "object_type": "product",
+      "is_saleable": false,
+      "explore_more": null,
+      "pack_size": null,
+      "category_ids": "4362,4408,6619,6621,6631,9816",
+      "id": "278644",
+      "sku": "9788184001952",
+      "rating_count": 0,
+      "from_gludo": 1,
+      "fbn": 0,
+      "gludo_stock": false,
+      "offers": null,
+      "mrp_freeze": null,
+      "primary_categories": {
+        "l2": {
+          "id": "6619",
+          "name": "Books"
+        },
+        "l3": {
+          "id": "6621",
+          "name": "Non Fiction"
+        },
+        "l1": {
+          "id": "4362",
+          "name": "Jewellery & Accessories"
+        }
+      },
+      "type": "simple",
+      "final_price": 299,
+      "expdt": null,
+      "price": 299,
+      "button_text": "ADD TO BAG",
+      "brand_name": "",
+      "discount": 0,
+      "show_wishlist_button": 0,
+      "slug": "dr-mathai-s-holistic-health-guide-for-women-by-dr-issac-mathai-paperback/p/278644",
+      "is_lux": 0,
+      "name": "Dr Mathai's Holistic Health Guide for Women by Dr Issac Mathai - Paperback",
+      "pro_flag": 0,
+      "dynamic_tags": [],
+      "brand_ids": "6631",
+      "is_backorder": 0,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:h-200,w-200,cm-pad_resize/9/7/9788184001952.jpg",
+      "catalog_tag": ["nykaa"],
+      "quantity": 0
+    }, {
+      "rating": 4.0,
+      "is_kit_combo": null,
+      "object_type": "product",
+      "is_saleable": false,
+      "explore_more": null,
+      "pack_size": null,
+      "category_ids": "4362,4408,6619,6621,6631,9816",
+      "id": "282515",
+      "sku": "9789381431375",
+      "rating_count": 1,
+      "from_gludo": 1,
+      "fbn": 0,
+      "gludo_stock": false,
+      "offers": null,
+      "mrp_freeze": null,
+      "primary_categories": {
+        "l2": {
+          "id": "6619",
+          "name": "Books"
+        },
+        "l3": {
+          "id": "6621",
+          "name": "Non Fiction"
+        },
+        "l1": {
+          "id": "4362",
+          "name": "Jewellery & Accessories"
+        }
+      },
+      "type": "simple",
+      "final_price": 399,
+      "expdt": null,
+      "price": 399,
+      "button_text": "ADD TO BAG",
+      "brand_name": "",
+      "discount": 0,
+      "show_wishlist_button": 0,
+      "slug": "dying-to-be-me-my-journey-from-cancer-by-anita-moorjani-paperback/p/282515",
+      "is_lux": 0,
+      "name": "Dying To Be Me : My Journey from Cancer by Anita Moorjani - Paperback",
+      "pro_flag": 0,
+      "dynamic_tags": [],
+      "brand_ids": "6631",
+      "is_backorder": 0,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:h-200,w-200,cm-pad_resize/9/7/9789381431375.jpg",
+      "catalog_tag": ["nykaa"],
+      "quantity": 0
+    }, {
+      "rating": 4.0,
+      "is_kit_combo": null,
+      "object_type": "product",
+      "is_saleable": false,
+      "explore_more": null,
+      "pack_size": null,
+      "category_ids": "4362,4408,6619,6621,6631,9816",
+      "id": "282517",
+      "sku": "9781601423788",
+      "rating_count": 1,
+      "from_gludo": 1,
+      "fbn": 0,
+      "gludo_stock": false,
+      "offers": null,
+      "mrp_freeze": null,
+      "primary_categories": {
+        "l2": {
+          "id": "6619",
+          "name": "Books"
+        },
+        "l3": {
+          "id": "6621",
+          "name": "Non Fiction"
+        },
+        "l1": {
+          "id": "4362",
+          "name": "Jewellery & Accessories"
+        }
+      },
+      "type": "simple",
+      "final_price": 599,
+      "expdt": null,
+      "price": 599,
+      "button_text": "ADD TO BAG",
+      "brand_name": "",
+      "discount": 0,
+      "show_wishlist_button": 0,
+      "slug": "for-women-only-in-the-workplace-by-shaunti-feldhahn/p/282517",
+      "is_lux": 0,
+      "name": "For Women Only In The Workplace by Shaunti Feldhahn,",
+      "pro_flag": 0,
+      "dynamic_tags": [],
+      "brand_ids": "6631",
+      "is_backorder": 0,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:h-200,w-200,cm-pad_resize/9/7/9781601423788.jpg",
+      "catalog_tag": ["nykaa"],
+      "quantity": 0
+    }, {
+      "rating": 1.0,
+      "is_kit_combo": null,
+      "object_type": "product",
+      "is_saleable": false,
+      "explore_more": null,
+      "pack_size": null,
+      "category_ids": "4362,4408,6619,6621,6631,9816",
+      "id": "278650",
+      "sku": "9788184004618",
+      "rating_count": 1,
+      "from_gludo": 1,
+      "fbn": 0,
+      "gludo_stock": false,
+      "offers": null,
+      "mrp_freeze": null,
+      "primary_categories": {
+        "l2": {
+          "id": "6619",
+          "name": "Books"
+        },
+        "l3": {
+          "id": "6621",
+          "name": "Non Fiction"
+        },
+        "l1": {
+          "id": "4362",
+          "name": "Jewellery & Accessories"
+        }
+      },
+      "type": "simple",
+      "final_price": 250,
+      "expdt": null,
+      "price": 250,
+      "button_text": "ADD TO BAG",
+      "brand_name": "",
+      "discount": 0,
+      "show_wishlist_button": 0,
+      "slug": "hair-yoga-caring-for-your-hair-the-right-way-by-jawed-habib-paperback/p/278650",
+      "is_lux": 0,
+      "name": "Hair Yoga : Caring for Your Hair The Right Way by Jawed Habib - Paperback",
+      "pro_flag": 0,
+      "dynamic_tags": [],
+      "brand_ids": "6631",
+      "is_backorder": 0,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:h-200,w-200,cm-pad_resize/9/7/9788184004618.jpg",
+      "catalog_tag": ["nykaa"],
+      "quantity": 0
+    }, {
+      "rating": 4.0,
+      "is_kit_combo": null,
+      "object_type": "product",
+      "is_saleable": false,
+      "explore_more": null,
+      "pack_size": null,
+      "category_ids": "4362,4408,6619,6620,6631,9816",
+      "id": "278672",
+      "sku": "9780143417699",
+      "rating_count": 0,
+      "from_gludo": 1,
+      "fbn": 0,
+      "gludo_stock": false,
+      "offers": null,
+      "mrp_freeze": null,
+      "primary_categories": {
+        "l2": {
+          "id": "6619",
+          "name": "Books"
+        },
+        "l3": {
+          "id": "6620",
+          "name": "Fiction"
+        },
+        "l1": {
+          "id": "4362",
+          "name": "Jewellery & Accessories"
+        }
+      },
+      "type": "simple",
+      "final_price": 175,
+      "expdt": null,
+      "price": 175,
+      "button_text": "ADD TO BAG",
+      "brand_name": "",
+      "discount": 0,
+      "show_wishlist_button": 0,
+      "slug": "someone-like-you-by-nikita-singh-and-durjoy-datta-paperback/p/278672",
+      "is_lux": 0,
+      "name": "Someone Like You by Nikita Singh and Durjoy Datta - Paperback",
+      "pro_flag": 0,
+      "dynamic_tags": [],
+      "brand_ids": "6631",
+      "is_backorder": 0,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:h-200,w-200,cm-pad_resize/9/7/9780143417699.jpg",
+      "catalog_tag": ["nykaa"],
+      "quantity": 0
+    }, {
+      "rating": 4.0,
+      "is_kit_combo": null,
+      "object_type": "product",
+      "is_saleable": false,
+      "explore_more": null,
+      "pack_size": null,
+      "category_ids": "4362,4408,6619,6620,6631,9816",
+      "id": "278647",
+      "sku": "9788184004199",
+      "rating_count": 1,
+      "from_gludo": 1,
+      "fbn": 0,
+      "gludo_stock": false,
+      "offers": null,
+      "mrp_freeze": null,
+      "primary_categories": {
+        "l2": {
+          "id": "6619",
+          "name": "Books"
+        },
+        "l3": {
+          "id": "6620",
+          "name": "Fiction"
+        },
+        "l1": {
+          "id": "4362",
+          "name": "Jewellery & Accessories"
+        }
+      },
+      "type": "simple",
+      "final_price": 175,
+      "expdt": null,
+      "price": 175,
+      "button_text": "ADD TO BAG",
+      "brand_name": "",
+      "discount": 0,
+      "show_wishlist_button": 0,
+      "slug": "few-things-left-unsaid-by-sudeep-nagarkar-paperback/p/278647",
+      "is_lux": 0,
+      "name": "Few Things Left Unsaid by Sudeep Nagarkar - Paperback",
+      "pro_flag": 0,
+      "dynamic_tags": [],
+      "brand_ids": "6631",
+      "is_backorder": 0,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:h-200,w-200,cm-pad_resize/9/7/9788184004199.jpg",
+      "catalog_tag": ["nykaa"],
+      "quantity": 0
+    }, {
+      "rating": 5.0,
+      "is_kit_combo": null,
+      "object_type": "product",
+      "is_saleable": false,
+      "explore_more": null,
+      "pack_size": null,
+      "category_ids": "4362,4408,6619,6620,6631,9816",
+      "id": "278676",
+      "sku": "9780143418658",
+      "rating_count": 1,
+      "from_gludo": 1,
+      "fbn": 0,
+      "gludo_stock": false,
+      "offers": null,
+      "mrp_freeze": null,
+      "primary_categories": {
+        "l2": {
+          "id": "6619",
+          "name": "Books"
+        },
+        "l3": {
+          "id": "6620",
+          "name": "Fiction"
+        },
+        "l1": {
+          "id": "4362",
+          "name": "Jewellery & Accessories"
+        }
+      },
+      "type": "simple",
+      "final_price": 250,
+      "expdt": null,
+      "price": 250,
+      "button_text": "ADD TO BAG",
+      "brand_name": "",
+      "discount": 0,
+      "show_wishlist_button": 0,
+      "slug": "the-day-i-stopped-drinking-milk-by-sudha-murty-paperback/p/278676",
+      "is_lux": 0,
+      "name": "The Day I Stopped Drinking Milk by Sudha Murty - Paperback",
+      "pro_flag": 0,
+      "dynamic_tags": [],
+      "brand_ids": "6631",
+      "is_backorder": 0,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:h-200,w-200,cm-pad_resize/9/7/9780143418658.jpg",
+      "catalog_tag": ["nykaa"],
+      "quantity": 0
+    }, {
+      "rating": 4.0,
+      "is_kit_combo": null,
+      "object_type": "product",
+      "is_saleable": false,
+      "explore_more": null,
+      "pack_size": null,
+      "category_ids": "4362,4408,6619,6620,6631,9816",
+      "id": "278656",
+      "sku": "9788184005967",
+      "rating_count": 0,
+      "from_gludo": 1,
+      "fbn": 0,
+      "gludo_stock": false,
+      "offers": null,
+      "mrp_freeze": null,
+      "primary_categories": {
+        "l2": {
+          "id": "6619",
+          "name": "Books"
+        },
+        "l3": {
+          "id": "6620",
+          "name": "Fiction"
+        },
+        "l1": {
+          "id": "4362",
+          "name": "Jewellery & Accessories"
+        }
+      },
+      "type": "simple",
+      "final_price": 175,
+      "expdt": null,
+      "price": 175,
+      "button_text": "ADD TO BAG",
+      "brand_name": "",
+      "discount": 0,
+      "show_wishlist_button": 0,
+      "slug": "marry-me-stranger-by-novoneel-chakraborty-paperback/p/278656",
+      "is_lux": 0,
+      "name": "Marry Me, Stranger by Novoneel Chakraborty - Paperback",
+      "pro_flag": 0,
+      "dynamic_tags": [],
+      "brand_ids": "6631",
+      "is_backorder": 0,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:h-200,w-200,cm-pad_resize/9/7/9788184005967.jpg",
+      "catalog_tag": ["nykaa"],
+      "quantity": 0
+    }, {
+      "rating": 4.0,
+      "is_kit_combo": null,
+      "object_type": "product",
+      "is_saleable": false,
+      "explore_more": null,
+      "pack_size": null,
+      "category_ids": "4362,4408,6619,6620,6631,9816",
+      "id": "278701",
+      "sku": "9780241972939",
+      "rating_count": 1,
+      "from_gludo": 1,
+      "fbn": 0,
+      "gludo_stock": false,
+      "offers": null,
+      "mrp_freeze": null,
+      "primary_categories": {
+        "l2": {
+          "id": "6619",
+          "name": "Books"
+        },
+        "l3": {
+          "id": "6620",
+          "name": "Fiction"
+        },
+        "l1": {
+          "id": "4362",
+          "name": "Jewellery & Accessories"
+        }
+      },
+      "type": "simple",
+      "final_price": 499,
+      "expdt": null,
+      "price": 499,
+      "button_text": "ADD TO BAG",
+      "brand_name": "",
+      "discount": 0,
+      "show_wishlist_button": 0,
+      "slug": "the-forty-rules-of-love-by-elif-shafak-paperback/p/278701",
+      "is_lux": 0,
+      "name": "The Forty Rules of Love by Elif Shafak - Paperback",
+      "pro_flag": 0,
+      "dynamic_tags": [],
+      "brand_ids": "6631",
+      "is_backorder": 0,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:h-200,w-200,cm-pad_resize/9/7/9780241972939.jpg",
+      "catalog_tag": ["nykaa"],
+      "quantity": 0
+    }, {
+      "rating": 4.0,
+      "is_kit_combo": null,
+      "object_type": "product",
+      "is_saleable": false,
+      "explore_more": null,
+      "pack_size": null,
+      "category_ids": "4362,4408,6619,6621,6631,9816",
+      "id": "282533",
+      "sku": "9781578262137",
+      "rating_count": 1,
+      "from_gludo": 1,
+      "fbn": 0,
+      "gludo_stock": false,
+      "offers": null,
+      "mrp_freeze": null,
+      "primary_categories": {
+        "l2": {
+          "id": "6619",
+          "name": "Books"
+        },
+        "l3": {
+          "id": "6621",
+          "name": "Non Fiction"
+        },
+        "l1": {
+          "id": "4362",
+          "name": "Jewellery & Accessories"
+        }
+      },
+      "type": "simple",
+      "final_price": 899,
+      "expdt": null,
+      "price": 899,
+      "button_text": "ADD TO BAG",
+      "brand_name": "",
+      "discount": 0,
+      "show_wishlist_button": 0,
+      "slug": "the-body-sculpting-bible-for-buns-legs-women-s-edition-by-james-villepigue-paperback/p/282533",
+      "is_lux": 0,
+      "name": "The Body Sculpting Bible For Buns & Legs: Women's Edition by James Villepigue - Paperback",
+      "pro_flag": 0,
+      "dynamic_tags": [],
+      "brand_ids": "6631",
+      "is_backorder": 0,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:h-200,w-200,cm-pad_resize/9/7/9781578262137.jpg",
+      "catalog_tag": ["nykaa"],
+      "quantity": 0
+    }, {
+      "rating": 3.0,
+      "is_kit_combo": null,
+      "object_type": "product",
+      "is_saleable": false,
+      "explore_more": null,
+      "pack_size": null,
+      "category_ids": "4362,4408,6619,6620,6631,9816",
+      "id": "278667",
+      "sku": "9780143420903",
+      "rating_count": 0,
+      "from_gludo": 1,
+      "fbn": 0,
+      "gludo_stock": false,
+      "offers": null,
+      "mrp_freeze": null,
+      "primary_categories": {
+        "l2": {
+          "id": "6619",
+          "name": "Books"
+        },
+        "l3": {
+          "id": "6620",
+          "name": "Fiction"
+        },
+        "l1": {
+          "id": "4362",
+          "name": "Jewellery & Accessories"
+        }
+      },
+      "type": "simple",
+      "final_price": 199,
+      "expdt": null,
+      "price": 199,
+      "button_text": "ADD TO BAG",
+      "brand_name": "",
+      "discount": 0,
+      "show_wishlist_button": 0,
+      "slug": "hold-my-hand-by-durjoy-datta-paperback/p/278667",
+      "is_lux": 0,
+      "name": "Hold My Hand by Durjoy Datta - Paperback",
+      "pro_flag": 0,
+      "dynamic_tags": [],
+      "brand_ids": "6631",
+      "is_backorder": 0,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:h-200,w-200,cm-pad_resize/9/7/9780143420903.jpg",
+      "catalog_tag": ["nykaa"],
+      "quantity": 0
+    }, {
+      "rating": 4.0,
+      "is_kit_combo": null,
+      "object_type": "product",
+      "is_saleable": false,
+      "explore_more": null,
+      "pack_size": null,
+      "category_ids": "4362,4408,6619,6621,6631,9816",
+      "id": "278665",
+      "sku": "9788184004571",
+      "rating_count": 0,
+      "from_gludo": 1,
+      "fbn": 0,
+      "gludo_stock": false,
+      "offers": null,
+      "mrp_freeze": null,
+      "primary_categories": {
+        "l2": {
+          "id": "6619",
+          "name": "Books"
+        },
+        "l3": {
+          "id": "6621",
+          "name": "Non Fiction"
+        },
+        "l1": {
+          "id": "4362",
+          "name": "Jewellery & Accessories"
+        }
+      },
+      "type": "simple",
+      "final_price": 299,
+      "expdt": null,
+      "price": 299,
+      "button_text": "ADD TO BAG",
+      "brand_name": "",
+      "discount": 0,
+      "show_wishlist_button": 0,
+      "slug": "everyday-ayurveda-by-dr-bhaswati-bhattacharya-paperback/p/278665",
+      "is_lux": 0,
+      "name": "Everyday Ayurveda by Dr Bhaswati Bhattacharya - Paperback",
+      "pro_flag": 0,
+      "dynamic_tags": [],
+      "brand_ids": "6631",
+      "is_backorder": 0,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:h-200,w-200,cm-pad_resize/9/7/9788184004571.jpg",
+      "catalog_tag": ["nykaa"],
+      "quantity": 0
+    }, {
+      "rating": 4.0,
+      "is_kit_combo": null,
+      "object_type": "product",
+      "is_saleable": false,
+      "explore_more": null,
+      "pack_size": null,
+      "category_ids": "4362,4408,6619,6620,6631,9816",
+      "id": "278695",
+      "sku": "9780143420361",
+      "rating_count": 0,
+      "from_gludo": 1,
+      "fbn": 0,
+      "gludo_stock": false,
+      "offers": null,
+      "mrp_freeze": null,
+      "primary_categories": {
+        "l2": {
+          "id": "6619",
+          "name": "Books"
+        },
+        "l3": {
+          "id": "6620",
+          "name": "Fiction"
+        },
+        "l1": {
+          "id": "4362",
+          "name": "Jewellery & Accessories"
+        }
+      },
+      "type": "simple",
+      "final_price": 250,
+      "expdt": null,
+      "price": 250,
+      "button_text": "ADD TO BAG",
+      "brand_name": "",
+      "discount": 0,
+      "show_wishlist_button": 0,
+      "slug": "house-of-cards-by-sudha-murty-paperback/p/278695",
+      "is_lux": 0,
+      "name": "House of Cards by Sudha Murty - Paperback",
+      "pro_flag": 0,
+      "dynamic_tags": [],
+      "brand_ids": "6631",
+      "is_backorder": 0,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:h-200,w-200,cm-pad_resize/9/7/9780143420361.jpg",
+      "catalog_tag": ["nykaa"],
+      "quantity": 0
+    }, {
+      "rating": 4.0,
+      "is_kit_combo": null,
+      "object_type": "product",
+      "is_saleable": false,
+      "explore_more": null,
+      "pack_size": null,
+      "category_ids": "4362,4408,6619,6620,6631,9816",
+      "id": "278674",
+      "sku": "9780143423003",
+      "rating_count": 1,
+      "from_gludo": 1,
+      "fbn": 0,
+      "gludo_stock": false,
+      "offers": null,
+      "mrp_freeze": null,
+      "primary_categories": {
+        "l2": {
+          "id": "6619",
+          "name": "Books"
+        },
+        "l3": {
+          "id": "6620",
+          "name": "Fiction"
+        },
+        "l1": {
+          "id": "4362",
+          "name": "Jewellery & Accessories"
+        }
+      },
+      "type": "simple",
+      "final_price": 175,
+      "expdt": null,
+      "price": 175,
+      "button_text": "ADD TO BAG",
+      "brand_name": "",
+      "discount": 0,
+      "show_wishlist_button": 0,
+      "slug": "pmr-your-dreams-are-mine-now-by-ravinder-singh-paperback/p/278674",
+      "is_lux": 0,
+      "name": "PMR: Your Dreams Are Mine Now by Ravinder Singh - Paperback",
+      "pro_flag": 0,
+      "dynamic_tags": [],
+      "brand_ids": "6631",
+      "is_backorder": 0,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:h-200,w-200,cm-pad_resize/9/7/9780143423003.jpg",
+      "catalog_tag": ["nykaa"],
+      "quantity": 0
+    }, {
+      "rating": 5.0,
+      "is_kit_combo": null,
+      "object_type": "product",
+      "is_saleable": false,
+      "explore_more": null,
+      "pack_size": null,
+      "category_ids": "4362,4408,6619,6621,6631,9816",
+      "id": "278678",
+      "sku": "9788184001471",
+      "rating_count": 1,
+      "from_gludo": 1,
+      "fbn": 0,
+      "gludo_stock": false,
+      "offers": null,
+      "mrp_freeze": null,
+      "primary_categories": {
+        "l2": {
+          "id": "6619",
+          "name": "Books"
+        },
+        "l3": {
+          "id": "6621",
+          "name": "Non Fiction"
+        },
+        "l1": {
+          "id": "4362",
+          "name": "Jewellery & Accessories"
+        }
+      },
+      "type": "simple",
+      "final_price": 299,
+      "expdt": null,
+      "price": 299,
+      "button_text": "ADD TO BAG",
+      "brand_name": "",
+      "discount": 0,
+      "show_wishlist_button": 0,
+      "slug": "from-xl-to-xs-a-fitness-guru-s-guide-to-changing-your-body-by-payal-gidwani-tiwari-paperback/p/278678",
+      "is_lux": 0,
+      "name": "From XL To XS: A Fitness Guru's Guide To Changing Your Body by Payal Gidwani Tiwari - Paperback",
+      "pro_flag": 0,
+      "dynamic_tags": [],
+      "brand_ids": "6631",
+      "is_backorder": 0,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:h-200,w-200,cm-pad_resize/9/7/9788184001471.jpg",
+      "catalog_tag": ["nykaa"],
+      "quantity": 0
+    }, {
+      "rating": 4.5,
+      "is_kit_combo": null,
+      "object_type": "product",
+      "is_saleable": false,
+      "explore_more": null,
+      "pack_size": null,
+      "category_ids": "4362,4408,6619,6621,6631,9816",
+      "id": "278690",
+      "sku": "9780143420613",
+      "rating_count": 2,
+      "from_gludo": 1,
+      "fbn": 0,
+      "gludo_stock": false,
+      "offers": null,
+      "mrp_freeze": null,
+      "primary_categories": {
+        "l2": {
+          "id": "6619",
+          "name": "Books"
+        },
+        "l3": {
+          "id": "6621",
+          "name": "Non Fiction"
+        },
+        "l1": {
+          "id": "4362",
+          "name": "Jewellery & Accessories"
+        }
+      },
+      "type": "simple",
+      "final_price": 299,
+      "expdt": null,
+      "price": 299,
+      "button_text": "ADD TO BAG",
+      "brand_name": "",
+      "discount": 0,
+      "show_wishlist_button": 0,
+      "slug": "the-book-of-woman-by-osho-paperback/p/278690",
+      "is_lux": 0,
+      "name": "The Book Of Woman by Osho - Paperback",
+      "pro_flag": 0,
+      "dynamic_tags": [],
+      "brand_ids": "6631",
+      "is_backorder": 0,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:h-200,w-200,cm-pad_resize/9/7/9780143420613.jpg",
+      "catalog_tag": ["nykaa"],
+      "quantity": 0
+    }, {
+      "rating": 4.0,
+      "is_kit_combo": null,
+      "object_type": "product",
+      "is_saleable": false,
+      "explore_more": null,
+      "pack_size": null,
+      "category_ids": "4362,4408,6619,6621,6631,9816",
+      "id": "282521",
+      "sku": "9780307461704",
+      "rating_count": 0,
+      "from_gludo": 1,
+      "fbn": 0,
+      "gludo_stock": false,
+      "offers": null,
+      "mrp_freeze": null,
+      "primary_categories": {
+        "l2": {
+          "id": "6619",
+          "name": "Books"
+        },
+        "l3": {
+          "id": "6621",
+          "name": "Non Fiction"
+        },
+        "l1": {
+          "id": "4362",
+          "name": "Jewellery & Accessories"
+        }
+      },
+      "type": "simple",
+      "final_price": 599,
+      "expdt": null,
+      "price": 599,
+      "button_text": "ADD TO BAG",
+      "brand_name": "",
+      "discount": 0,
+      "show_wishlist_button": 0,
+      "slug": "how-remarkable-women-lead-by-joanna-barsh-paperback/p/282521",
+      "is_lux": 0,
+      "name": "How Remarkable Women Lead by Joanna Barsh - Paperback",
+      "pro_flag": 0,
+      "dynamic_tags": [],
+      "brand_ids": "6631",
+      "is_backorder": 0,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:h-200,w-200,cm-pad_resize/9/7/9780307461704.jpg",
+      "catalog_tag": ["nykaa"],
+      "quantity": 0
+    }, {
+      "rating": 4.0,
+      "is_kit_combo": null,
+      "object_type": "product",
+      "is_saleable": false,
+      "explore_more": null,
+      "pack_size": null,
+      "category_ids": "4362,4408,6619,6620,6631,9816",
+      "id": "278673",
+      "sku": "9780143423027",
+      "rating_count": 0,
+      "from_gludo": 1,
+      "fbn": 0,
+      "gludo_stock": false,
+      "offers": null,
+      "mrp_freeze": null,
+      "primary_categories": {
+        "l2": {
+          "id": "6619",
+          "name": "Books"
+        },
+        "l3": {
+          "id": "6620",
+          "name": "Fiction"
+        },
+        "l1": {
+          "id": "4362",
+          "name": "Jewellery & Accessories"
+        }
+      },
+      "type": "simple",
+      "final_price": 199,
+      "expdt": null,
+      "price": 199,
+      "button_text": "ADD TO BAG",
+      "brand_name": "",
+      "discount": 0,
+      "show_wishlist_button": 0,
+      "slug": "pmr-this-love-that-feels-right-by-ravinder-singh-paperback/p/278673",
+      "is_lux": 0,
+      "name": "PMR: This Love that Feels Right. . . by Ravinder Singh - Paperback",
+      "pro_flag": 0,
+      "dynamic_tags": [],
+      "brand_ids": "6631",
+      "is_backorder": 0,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:h-200,w-200,cm-pad_resize/9/7/9780143423027.jpg",
+      "catalog_tag": ["nykaa"],
+      "quantity": 0
+    }],
+    "font_color": null,
+    "banner_video": null,
+    "filter_keys": {
+      "filters": [{
+        "tracking_group": "filterClicked",
+        "type": "category-filter",
+        "key": "category",
+        "title": "Category"
+      }, {
+        "tracking_group": "filterClicked",
+        "type": "multi-select",
+        "key": "brand",
+        "title": "Brand"
+      }, {
+        "tracking_group": "filterClicked",
+        "type": "range-filter",
+        "key": "price",
+        "title": "Price"
+      }, {
+        "tracking_group": "filterClicked",
+        "type": "range-filter",
+        "key": "discount",
+        "title": "Discount"
+      }, {
+        "tracking_group": "filterClicked",
+        "type": "single-select",
+        "key": "star_rating",
+        "title": "Avg Customer Rating"
+      }, {
+        "tracking_group": "filterClicked",
+        "type": "color-filter",
+        "key": "color",
+        "title": "Color"
+      }, {
+        "tracking_group": "filterClicked",
+        "type": "multi-select",
+        "key": "concern",
+        "title": "Concern"
+      }, {
+        "tracking_group": "filterClicked",
+        "type": "multi-select",
+        "key": "finish",
+        "title": "Finish"
+      }, {
+        "tracking_group": "filterClicked",
+        "type": "multi-select",
+        "key": "old_brand",
+        "title": "Brand"
+      }],
+      "other_filters": [{
+        "tracking_group": "filterClicked",
+        "type": "multi-select",
+        "key": "formulation",
+        "title": "Formulation"
+      }, {
+        "tracking_group": "filterClicked",
+        "type": "multi-select",
+        "key": "hair_type",
+        "title": "Hair Type"
+      }, {
+        "tracking_group": "filterClicked",
+        "type": "multi-select",
+        "key": "benefits",
+        "title": "Benefits"
+      }, {
+        "tracking_group": "filterClicked",
+        "type": "multi-select",
+        "key": "skin_type",
+        "title": "Skin type"
+      }, {
+        "tracking_group": "filterClicked",
+        "type": "multi-select",
+        "key": "skin_tone",
+        "title": "Skin tone"
+      }, {
+        "tracking_group": "filterClicked",
+        "type": "multi-select",
+        "key": "coverage",
+        "title": "Coverage"
+      }, {
+        "tracking_group": "filterClicked",
+        "type": "multi-select",
+        "key": "preference",
+        "title": "Preference"
+      }, {
+        "tracking_group": "filterClicked",
+        "type": "multi-select",
+        "key": "spf",
+        "title": "SPF"
+      }, {
+        "tracking_group": "filterClicked",
+        "type": "multi-select",
+        "key": "filter_size",
+        "title": "Pack Size"
+      }, {
+        "tracking_group": "filterClicked",
+        "type": "multi-select",
+        "key": "speciality_search",
+        "title": "Speciality Search"
+      }, {
+        "tracking_group": "filterClicked",
+        "type": "multi-select",
+        "key": "filter_product",
+        "title": "Product"
+      }, {
+        "tracking_group": "filterClicked",
+        "type": "multi-select",
+        "key": "usage_period",
+        "title": "Usage Period"
+      }, {
+        "tracking_group": "filterClicked",
+        "type": "multi-select",
+        "key": "size",
+        "title": "Size"
+      }, {
+        "tracking_group": "filterClicked",
+        "type": "multi-select",
+        "key": "wiring",
+        "title": "Wiring"
+      }, {
+        "tracking_group": "filterClicked",
+        "type": "multi-select",
+        "key": "padding",
+        "title": "Padding"
+      }, {
+        "tracking_group": "filterClicked",
+        "type": "multi-select",
+        "key": "impact",
+        "title": "Impact"
+      }, {
+        "tracking_group": "filterClicked",
+        "type": "multi-select",
+        "key": "fabric",
+        "title": "Fabric"
+      }, {
+        "tracking_group": "filterClicked",
+        "type": "multi-select",
+        "key": "rise",
+        "title": "Rise"
+      }, {
+        "tracking_group": "filterClicked",
+        "type": "multi-select",
+        "key": "target_area",
+        "title": "Target Area"
+      }, {
+        "tracking_group": "filterClicked",
+        "type": "multi-select",
+        "key": "pattern",
+        "title": "Pattern"
+      }, {
+        "tracking_group": "filterClicked",
+        "type": "multi-select",
+        "key": "straps_v1",
+        "title": "Straps"
+      }, {
+        "tracking_group": "filterClicked",
+        "type": "multi-select",
+        "key": "closure_v1",
+        "title": "Closure"
+      }, {
+        "tracking_group": "filterClicked",
+        "type": "multi-select",
+        "key": "seam_v1",
+        "title": "Seam"
+      }, {
+        "tracking_group": "filterClicked",
+        "type": "multi-select",
+        "key": "back_v1",
+        "title": "Back"
+      }, {
+        "tracking_group": "filterClicked",
+        "type": "multi-select",
+        "key": "age_v1",
+        "title": "Age"
+      }, {
+        "tracking_group": "filterClicked",
+        "type": "multi-select",
+        "key": "ingredient_v1",
+        "title": "Ingredient"
+      }]
+    },
+    "banner_video_image": null,
+    "android_landing_url": null,
+    "isNewApi": true,
+    "art_title": null,
+    "filters": {
+      "category": [{
+        "count": "60",
+        "rgt": "1168",
+        "name": "Jewellery & Accessories",
+        "parent_id": "2",
+        "lft": "1125",
+        "depth": "0",
+        "include_in_menu": "1",
+        "position": "20",
+        "category_id": "4362"
+      }, {
+        "count": "60",
+        "rgt": "1167",
+        "name": "Books",
+        "parent_id": "4362",
+        "lft": "1162",
+        "depth": "1",
+        "include_in_menu": "1",
+        "position": "6",
+        "category_id": "6619"
+      }, {
+        "count": "32",
+        "rgt": "1164",
+        "name": "Fiction",
+        "parent_id": "6619",
+        "lft": "1163",
+        "depth": "2",
+        "include_in_menu": "1",
+        "position": "1",
+        "category_id": "6620"
+      }, {
+        "count": "28",
+        "rgt": "1166",
+        "name": "Non Fiction",
+        "parent_id": "6619",
+        "lft": "1165",
+        "depth": "2",
+        "include_in_menu": "1",
+        "position": "2",
+        "category_id": "6621"
+      }],
+      "star_rating": [{
+        "count": "56",
+        "id": "4",
+        "name": "4 stars & above"
+      }, {
+        "count": "57",
+        "id": "3",
+        "name": "3 stars & above"
+      }, {
+        "count": "59",
+        "id": "2",
+        "name": "2 stars & above"
+      }, {
+        "count": "60",
+        "id": "1",
+        "name": "1 star & above"
+      }],
+      "brand": [{
+        "count": "60",
+        "id": "6631",
+        "name": "TBI Distributors"
+      }],
+      "discount": [{
+        "count": "60",
+        "name": "Upto 10%",
+        "value": "0"
+      }, {
+        "count": "0",
+        "name": "10% and above",
+        "value": "10"
+      }, {
+        "count": "0",
+        "name": "20% and above",
+        "value": "20"
+      }, {
+        "count": "0",
+        "name": "30% and above",
+        "value": "30"
+      }, {
+        "count": "0",
+        "name": "40% and above",
+        "value": "40"
+      }],
+      "price": {
+        "price_range": [{
+          "count": "49",
+          "max": 499,
+          "min": 0
+        }, {
+          "count": "11",
+          "max": 999,
+          "min": 500
+        }, {
+          "count": "0",
+          "max": 1999,
+          "min": 1000
+        }, {
+          "count": "0",
+          "max": 3999,
+          "min": 2000
+        }, {
+          "count": "0",
+          "max": "*",
+          "min": 4000
+        }],
+        "min_price": 0,
+        "max_price": 999.0
+      }
+    },
+    "query": "http://priceapi.nyk00-int.network/apis/v2/category.list?category_id=6619&debug=false&filter_algo=att_upfront&filter_format=v1&page_no=1&popularity_algo=conversion&pro=false",
+    "art_content": null,
+    "other_filters": {
+      "top_old_brand": [{
+        "count": "60",
+        "id": "62842",
+        "name": "TBI Distributors"
+      }],
+      "top_brand": [{
+        "count": "60",
+        "id": "6631",
+        "name": "TBI Distributors"
+      }]
+    },
+    "stop_further_call": 0,
+    "title": "Books",
+    "size_chart_image": null,
+    "app_sorting": "1",
+    "namespace": ["nykaa"],
+    "type": "category",
+    "ios_landing_url": null,
+    "sort": "popularity",
+    "desktop_tip_tile": null,
+    "tip_tile": null,
+    "banner_image": null,
+    "art_link_text": null,
+    "art_pos": null,
+    "category_name": "Books",
+    "auth_certificate": null,
+    "level": 1,
+    "url": "jewellery-and-accessories/books/c/6619",
+    "art_url": null,
+    "child_categories": null
+  }
+}
